@@ -76,7 +76,7 @@
 		准确率：0.875
 		```
 	- 可视化：
-       ![](example\ID3_Decision_Tree_Example.png)
+       ![](example/ID3_Decision_Tree_Example.png)
 
 **运行/编译提示**
 
