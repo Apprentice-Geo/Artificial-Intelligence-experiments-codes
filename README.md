@@ -75,8 +75,8 @@
 		数据： [2.0, 1.0, 3.0, 2] 误分类为：1
 		准确率：0.875
 		```
-	- 可视化：
-       ![](example/ID3_Decision_Tree_Example.png)
+    ![](example/ID3_Decision_Tree_Example.png)
+
 
 **运行/编译提示**
 
@@ -185,8 +185,9 @@ Two experiment codes from the Artificial Intelligence Methods course: the Eight 
 		Data: [2.0, 1.0, 3.0, 2] misclassified as: 1
 		Accuracy: 0.875
 		```
-	- Visualization: 
-        ![](example/ID3_Decision_Tree_Example.png)
+    ![](example/ID3_Decision_Tree_Example.png)
+
+
 **Build / Run Notes**
 
 - Python:
