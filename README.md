@@ -188,7 +188,7 @@ Two experiment codes from the Artificial Intelligence Methods course: the Eight 
 		Accuracy: 0.875
 		```
 	- Visualization: 
-        ![](example\ID3_Decision_Tree_Example.png)
+        ![](example/ID3_Decision_Tree_Example.png)
 **Build / Run Notes**
 
 - Python:
