@@ -104,8 +104,6 @@
 
 版权所有 (c) 保留
 
-简短声明：本仓库代码以教学与学习为目的，任何人均可在遵循 MIT 许可证条款下使用、复制、修改、合并、发布、分发、再许可及/或出售本软件的副本。
-
 ----
 
 English version
@@ -214,5 +212,3 @@ Two experiment codes from the Artificial Intelligence Methods course: the Eight 
 This project is released under the MIT License.
 
 Copyright (c)
-
-Short statement: This repository's code is intended for teaching and learning. Anyone may use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software under the terms of the MIT License.
